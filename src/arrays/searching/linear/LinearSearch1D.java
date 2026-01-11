@@ -1,4 +1,4 @@
-package arrays.searching;
+package arrays.searching.linear;
 
 public class LinearSearch1D {
     static int linearSearch(int[] nums, int target){

@@ -1,4 +1,4 @@
-package arrays.searching;
+package arrays.searching.linear;
 
 public class EvenDigit {
     static void main(String[] args) {

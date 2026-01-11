@@ -1,4 +1,4 @@
-package arrays.basics;
+package arrays.searching.linear;
 
 public class MaxWealth {
     public static void main(String[] args){

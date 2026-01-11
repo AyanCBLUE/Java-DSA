@@ -1,4 +1,4 @@
-package arrays.searching;
+package arrays.searching.linear;
 
 public class LinearSearchString {
     static boolean linearSearch(String str, char ch){

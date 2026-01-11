@@ -1,4 +1,4 @@
-package arrays.searching;
+package arrays.searching.linear;
 
 public class LinearSearch2D {
     static boolean linearSearch(int[][] nums, int target){
