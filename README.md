@@ -28,7 +28,9 @@ improving logic, and understanding how algorithms work.
 - Search in Rotated Sorted Array
 - Search in Rotated Sorted Array (Duplicate Handling)
 - Square Root (Binary Search on Answer)
-
+- Aggressive Cows
+- Koko Eating Bananas
+- Allocate Books
 
 I will keep updating this repository as I progress.
 
