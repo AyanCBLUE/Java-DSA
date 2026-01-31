@@ -31,6 +31,8 @@ improving logic, and understanding how algorithms work.
 - Aggressive Cows
 - Koko Eating Bananas
 - Allocate Books
+- Split Array Largest Sum
+- Median In Row Wise Sorted Matrix
 
 I will keep updating this repository as I progress.
 
